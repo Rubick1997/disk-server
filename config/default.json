@@ -1,3 +1,4 @@
 {
-    "serverPort":5000
+    "serverPort":5000,
+    "dbUrl":"mongodb+srv://User:1234@cloud.vu1ez.mongodb.net/myFirstDatabase?retryWrites=true&w=majority"
 }
