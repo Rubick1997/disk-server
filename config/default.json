@@ -1,5 +1,6 @@
 {
     "serverPort":5000,
     "dbUrl":"mongodb+srv://newuser:12345@cloud.vu1ez.mongodb.net/users?retryWrites=true&w=majority",
-    "secretKey": "rustam-secret-key"
+    "secretKey": "rustam-secret-key",
+    "filePath": "/Users/rustamkolumbayev/Desktop/My Projects/clouddisk/server/files"
 }
